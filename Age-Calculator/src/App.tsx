@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-100 px-5">
-      <div className="bg-gradient-to-b w-full max-w-md rounded-xl shadow-2xl py-6 md:py-8  from-indigo-500 to-blue-400 flex justify-center items-center">
+      <div className="bg-gradient-to-b w-full max-w-md rounded-xl shadow-xl py-6 md:py-8  from-indigo-500 to-blue-400 flex justify-center items-center">
         <div>
           <h1 className="text-3xl font-bold text-white text-center mb-8 border-b border-gray-400 pb-4">
             Age Calculator
